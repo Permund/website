@@ -2,6 +2,4 @@
 
 Cool website
 
-Edit readme
-
-Updated locally
+Updat rebase

@@ -6,4 +6,4 @@ Updat rebase
 
 ## Purpose
 
-This change will conflict with the remote side
+This is just a readme file
